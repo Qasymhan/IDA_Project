@@ -13,6 +13,6 @@ Shoe Size<br>
 Buyer Region<br>
 </ul>
 <br>
-Main library is Pandas
+Library: Pandas
 <br>
 Work in progress
