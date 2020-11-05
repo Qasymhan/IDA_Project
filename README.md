@@ -1,4 +1,4 @@
-Part 2 was added
+<b>Part 2 was added</b>
 <br>
 In this project we will analyze US Stock X market
 <br>
@@ -16,6 +16,7 @@ Buyer Region<br>
 </ul>
 <br>
 Library: Pandas, Plotly
-!: Plotly graphs are not visible through git.
+<br>
+<b>!: Plotly graphs are not visible through git.</b>
 <br>
 Work in progress
