@@ -1,3 +1,5 @@
+Part 2 was added
+<br>
 In this project we will analyze US Stock X market
 <br>
 We will use dataset from Kaggle: https://www.kaggle.com/hudsonstuck/stockx-data-contest
@@ -13,6 +15,7 @@ Shoe Size<br>
 Buyer Region<br>
 </ul>
 <br>
-Library: Pandas
+Library: Pandas, Plotly
+!: Plotly graphs are not visible through git.
 <br>
 Work in progress
