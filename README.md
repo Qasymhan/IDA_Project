@@ -1,4 +1,4 @@
-<b>Part 2 was added</b>
+<b>Final part was added</b>
 <br>
 In this project we will analyze US Stock X market
 <br>
@@ -15,8 +15,8 @@ Shoe Size<br>
 Buyer Region<br>
 </ul>
 <br>
-Library: Pandas, Plotly
+Library: Pandas, Plotly.
 <br>
 <b>!: Plotly graphs are not visible through git.</b>
-<br>
-Work in progress
+
+
